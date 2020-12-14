@@ -1,0 +1,24 @@
+{
+  "name": "bobs",
+  "docs": "https://github.com/",
+  "type": "node",
+  "executable": "bobs.js",
+  "install": "install.sh",
+  "install_cloud": "install_cloud.sh",
+  "description": "Just junk",
+  "notice": "",
+  "shortPoll": "180",
+  "longPoll": "14400",
+  "profile_version": "1.0.0",
+  "testMode": false,
+  "credits": [
+    {
+      "title": "Just more junk",
+      "author": "Bob Paauwey",
+      "version": "1.0.0",
+      "date": "November 13th, 2020",
+      "source": "https://github.com/",
+      "license": "MIT"
+    }
+  ]
+}
